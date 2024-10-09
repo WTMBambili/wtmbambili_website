@@ -1,8 +1,8 @@
-
+import { BaseLayout } from "../components/Layout"
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <BaseLayout>Home</BaseLayout>
   )
 }
 
