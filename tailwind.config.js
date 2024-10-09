@@ -13,7 +13,9 @@ export default {
         'light_accent':'#4FC3F7',
         'title':'#3F4043',
         'destructive':'#FF7370',
-        'light':'#ffffff'
+        'light':'#ffffff',
+        'footer':'#051736',
+        'footer_links':'#dfFfFf'
 
       }
     },
